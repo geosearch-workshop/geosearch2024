@@ -261,7 +261,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    background-image: url("../img/Atlanta_cityscape.jpg");
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("../img/Atlanta_cityscape.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
